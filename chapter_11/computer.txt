@@ -1,0 +1,3 @@
+1001 zhanghua	87
+1002 wutao		65
+1003 lisi		92
